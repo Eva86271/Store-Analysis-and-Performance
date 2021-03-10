@@ -6,11 +6,11 @@ The problem statement was to analyse a set of stores for Quantium , compare thei
 
 ![Correlation Analysis1](https://github.com/Eva86271/Store-Analysis-and-Performance/blob/main/Quantium/output_100_0.png)
 
-![Correlation Analysis](https://github.com/Eva86271/Store-Analysis-and-Performance/tree/main/Quantium/output_101_0.png)
+![Correlation Analysis2](https://github.com/Eva86271/Store-Analysis-and-Performance/blob/main/Quantium/output_101_0.png)
 
-![Correlation Analysis](https://github.com/Eva86271/Store-Analysis-and-Performance/tree/main/Quantium/output_102_0.png)
+![Correlation Analysis3](https://github.com/Eva86271/Store-Analysis-and-Performance/tree/main/Quantium/output_102_0.png)
 
-![Correlation Analysis](https://github.com/Eva86271/Store-Analysis-and-Performance/tree/main/Quantium/output_80_0.png)
+![Correlation Analysis4](https://github.com/Eva86271/Store-Analysis-and-Performance/tree/main/Quantium/output_80_0.png)
 
 ![Correlation Analysis](https://github.com/Eva86271/Store-Analysis-and-Performance/tree/main/Quantium/output_84_0.png)
 
