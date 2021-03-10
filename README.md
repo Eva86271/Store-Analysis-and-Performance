@@ -4,7 +4,7 @@ The problem statement was to analyse a set of stores for Quantium , compare thei
 ## Some Data explorations
 ![Correlation Analysis](https://github.com/Eva86271/Store-Analysis-and-Performance/blob/main/Quantium/output_21_0.png)
 
-![Correlation Analysis](https://github.com/Eva86271/Store-Analysis-and-Performance/tree/main/Quantium/output_100_0.png)
+![Correlation Analysis1](https://github.com/Eva86271/Store-Analysis-and-Performance/blob/main/Quantium/output_100_0.png)
 
 ![Correlation Analysis](https://github.com/Eva86271/Store-Analysis-and-Performance/tree/main/Quantium/output_101_0.png)
 
